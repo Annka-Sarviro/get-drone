@@ -3,7 +3,7 @@ import { resolve } from "path";
 
 export default defineConfig({
   root: "./src",
-  base: "/",
+  base: "/GetDrone/",
   build: {
     outDir: "../dist",
     emptyOutDir: true,
