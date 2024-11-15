@@ -1,0 +1,55 @@
+:root {
+  --font-size: 14px;
+
+  /* -------------- Colors---------------- */
+  --primary-blue: #003366;
+  --primary-blue-hover: #00284d;
+  --secondary-yellow: #e3a524;
+  --secondary-yellow-hover: #be8100;
+  --grey: #b8b8b8;
+  --grey-hover: #f0f0f0;
+  --white: #fff;
+  --accent-color-hover: var(--white);
+  --accent-color: var(--white);
+  --black: #000;
+
+  /* ----------------- Font-sizing ------------- */
+  --font-sm: 16px;
+  --font-md: 20px;
+  --font-lg: 22px;
+  --font-xl: 24px;
+
+  /* ------------- Spacing ------------- */
+  --spacing-3xs: 8px;
+  --spacing-2xs: 10px;
+  --spacing-lg: 20px;
+  --spacing-sm: 16px;
+  --spacing-3xl: 34px;
+  --spacing-7xl: 52px;
+  --spacing-8xl: 60px;
+  /* 
+
+
+  /* ----------- Radius---------- */
+  --box-radius: 6px;
+  --button-radius: 0; /* 
+
+  /* -----------------Border styles --------- */
+
+  --grey-border: 1px solid var(--grey);
+  --primary-border: 1px solid var(--primary-blue);
+  --primary-border-hover: 1px solid var(--primary-blue-hover);
+  --primary-outline: 1px solid var(--primary-blue);
+  --primary-outline-hover: 1px solid var(--primary-blue-hover);
+
+  /* ------------- Button styling ----------- */
+  --button-padding: var(--spacing-2xs) var(--spacing-lg);
+  --button-border-radius: var(--button-radius);
+  --button-text-color: var(--white);
+  --button-background: var(--primary-blue);
+  --button-background-hover: var(--primary-blue-hover);
+  --button-primary-border: var(--primary-border);
+  --button-primary-border-hover: var(--primary-border-hover);
+  --button-primary-outline: var(--primary-outline);
+  --button-primary-background-hover: var(--primary-blue-hover);
+}

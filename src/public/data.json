@@ -1,0 +1,74 @@
+{
+  "parts": [
+    {
+      "type": "motor",
+      "size": "7",
+      "cost": 55
+    },
+    {
+      "type": "motor",
+      "size": "10",
+      "cost": 110
+    },
+    {
+      "type": "frame",
+      "size": "7",
+      "cost": 12
+    },
+    {
+      "type": "frame",
+      "size": "10",
+      "cost": 10
+    },
+    {
+      "type": "battery",
+      "size": "6s2p",
+      "cost": 60
+    },
+    {
+      "type": "battery",
+      "size": "6s3p",
+      "cost": 90
+    },
+    {
+      "type": "camera",
+      "size": "caddx",
+      "cost": 30
+    },
+    {
+      "type": "camera",
+      "size": "foxeer",
+      "cost": 40
+    },
+    {
+      "type": "video_antenna",
+      "size": "cherry",
+      "cost": 10
+    },
+    {
+      "type": "video_antenna",
+      "size": "sky",
+      "cost": 8
+    },
+    {
+      "type": "radio_module",
+      "size": "elrs",
+      "cost": 10
+    },
+    {
+      "type": "radio_module",
+      "size": "rx",
+      "cost": 15
+    },
+    {
+      "type": "flight_controller",
+      "size": "v4",
+      "cost": 50
+    },
+    {
+      "type": "flight_controller",
+      "size": "f405",
+      "cost": 70
+    }
+  ]
+}
